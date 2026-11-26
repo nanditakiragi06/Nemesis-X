@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+uploads/*
+outputs/*
+evidence/*
+person_crops/*
+clips/*
+!uploads/.gitkeep
+!outputs/.gitkeep
+!evidence/.gitkeep
+!person_crops/.gitkeep
+!clips/.gitkeep
